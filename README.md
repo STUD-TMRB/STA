@@ -1,2 +1,2 @@
-# STA321
+# STA
 Holds STA 321 stuff
